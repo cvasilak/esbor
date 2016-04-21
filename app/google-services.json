@@ -1,0 +1,52 @@
+{
+  "project_info": {
+    "project_id": "esbor-1287",
+    "project_number": "771524323363",
+    "name": "Esbor"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771524323363:android:154789673747cc29",
+        "client_id": "android:com.vuforia.esbor",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.vuforia.esbor",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771524323363-nanhnqdku9coieiffc35r1gl71uv2jv4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vuforia.esbor",
+            "certificate_hash": "58471698DA67DAF8018D7D9C309A8968E0A4BB61"
+          }
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}

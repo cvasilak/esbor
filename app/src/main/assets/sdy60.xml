@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="agiasofia-exterior2" size="421.000000 264.000000" />
+    <ImageTarget name="agiasofia-interior" size="416.000000 436.000000" />
+    <ImageTarget name="agiasofia-exterior" size="364.000000 291.000000" />
+  </Tracking>
+</QCARConfig>
