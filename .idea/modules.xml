@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Esbor.iml" filepath="$PROJECT_DIR$/Esbor.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/esbor.iml" filepath="$PROJECT_DIR$/esbor.iml" />
     </modules>
   </component>
 </project>
